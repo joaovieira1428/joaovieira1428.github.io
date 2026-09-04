@@ -3,6 +3,10 @@ locale = 'en-us'
 title = 'João Vieira'
 theme = 'loficode-hugo-theme'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [markup.goldmark.renderer]
   unsafe = true
 
