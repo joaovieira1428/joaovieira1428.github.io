@@ -1,0 +1,3 @@
+[submodule "site/themes/loficode-hugo-theme"]
+	path = site/themes/loficode-hugo-theme
+	url = https://github.com/madebydia/loficode-hugo-theme
