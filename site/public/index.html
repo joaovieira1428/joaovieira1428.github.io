@@ -61,7 +61,13 @@
             <a href="http://localhost:1313/" class="logo">João Vieira</a>
         </div>
 
-        <div class="nav-links">
+        <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+
+        <div class="nav-links" id="main-nav">
             
             <a href="http://localhost:1313/resume/" class="nav-link">Résumé</a>
             
@@ -145,13 +151,19 @@
       
       <div class="tag" data-tag="folk">folk</div>
       
+      <div class="tag" data-tag="os-moleiros-da-ribeira">os moleiros da ribeira</div>
+      
       <div class="tag" data-tag="audio-cleanup">audio cleanup</div>
       
-      <div class="tag" data-tag="os-moleiros-da-ribeira">os moleiros da ribeira</div>
+      <div class="tag" data-tag="sea">sea</div>
+      
+      <div class="tag" data-tag="work">work</div>
       
       <div class="tag" data-tag="culture">culture</div>
       
-      <div class="tag" data-tag="sea">sea</div>
+      <div class="tag" data-tag="river">river</div>
+      
+      <div class="tag" data-tag="romaria">romaria</div>
       
     </div>
   </div>
@@ -197,9 +209,9 @@
   <div class="post-meta-sidebar">
     <div class="reading-time-vaporwave">
       <span class="coffee-cups">
-               ☕
+                         ☕☕☕☕☕
       </span>
-      <span>1 min</span>
+      <span>8 min</span>
     </div>
   </div>
 </article>
@@ -222,7 +234,15 @@
     
 
     <p class="post-excerpt-vaporwave">
-      (mulher) A barca virou Deixa-la virar São voltas que dão No fundo do mar CORO – repetir quadra Ó compadre tombou um carro Lá para as bandas de São Mateus Ó …
+       (mulher)
+A barca virou
+Deixa-la virar
+São voltas que dão
+No fundo do mar
+CORO – repetir quadra
+Ó compadre tombou um carro
+Lá para as bandas de São Mateus
+Ó …
     </p>
 
     
@@ -258,7 +278,7 @@
   <div class="post-content">
     <div class="post-header-inline">
       <h2 class="post-title-vaporwave">
-        <a href="http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro/">Canioneiro dos Moleiros da Ribeira do Olival</a>
+        <a href="http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-a_lavadeira/">A Lavadeira</a>
       </h2>
     </div>
 
@@ -268,11 +288,16 @@
     </div>
 
     
-    <p class="post-list-subtitle">This is a collection of songs from the end of the XIX century and beginning of the XX century. They were collected in our region and as such they were songs that the people used to sing and dance in Olival/Ourém during that time.</p>
+    <p class="post-list-subtitle">A song about one of the most important jobs that existed, and in some way still exists today, the washerwomen, these were woman that cleaned the family and a lot of the times, if they worked for someone else, their employer&#39;s family clothes as well. Sometimes they used the communial wash house, if one was available in the region, but more often than not, they used the rivers or streams.</p>
     
 
     <p class="post-excerpt-vaporwave">
-      This collection is currently incomplete, since most songs were not transcribed into sheet music and none of them were in a digital format, so since 2024 I …
+       (mulher) – repete cada 2 versos
+O pedreiro cheira a cal
+O carpinteiro a madeira
+Cada qual o seu ofício
+Eu também sou lavadeira
+CORO (MULHERES) - repete cada 2 …
     </p>
 
     
@@ -284,10 +309,14 @@
       
       <span class="post-tag-vaporwave">Os Moleiros da Ribeira</span>
       
+      <span class="post-tag-vaporwave">river</span>
+      
+      <span class="post-tag-vaporwave">work</span>
+      
     </div>
     
 
-    <a href="http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro/" class="continue-reading-vaporwave">
+    <a href="http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-a_lavadeira/" class="continue-reading-vaporwave">
       Read More →
     </a>
   </div>
@@ -305,6 +334,26 @@
   </div>
 
    
+  <div class="load-more-section">
+    <button
+      id="load-more-btn"
+      class="load-more-btn"
+      data-loaded="3"
+      data-total="7"
+    >
+      <span class="load-more-text">Load More Posts</span>
+      <span class="load-more-icon">☕</span>
+    </button>
+    <div class="load-more-loading" id="load-more-loading" style="display: none">
+      <span class="loading-text">Brewing more content...</span>
+      <div class="loading-dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+  
 </div>
 
     </main>

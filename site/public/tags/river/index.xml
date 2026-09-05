@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>River on João Vieira</title>
+		<link>http://localhost:1313/tags/river/</link>
+		<description>Recent content in River on João Vieira</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/river/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A Lavadeira</title>
+				<link>http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-a_lavadeira/</link>
+				<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-a_lavadeira/</guid>
+				<description>&lt;iframe src=&#34;http://localhost:1313/files/A Lavadeira.pdf&#34; width=&#34;600px&#34; height=&#34;900px&#34; style=&#34;border: none; border-radius: 8px;&#34;&gt;&#xA;  &lt;a href=&#34;http://localhost:1313/files/A Lavadeira.pdf&#34;&gt;&lt;/a&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;em&gt;(mulher)&lt;/em&gt; – repete cada 2 versos&lt;br&gt;&#xA;O pedreiro cheira a cal&lt;br&gt;&#xA;O carpinteiro a madeira&lt;br&gt;&#xA;Cada qual o seu ofício&lt;br&gt;&#xA;Eu também sou lavadeira&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;CORO (MULHERES)&lt;/em&gt; - repete cada 2 versos&lt;br&gt;&#xA;Eu também sou lavadeira&lt;br&gt;&#xA;Lá no rio de Jordão&lt;br&gt;&#xA;Lavo saias entermeios&lt;br&gt;&#xA;Também lavo o meu calção &lt;strong&gt;(HOMENS)&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;(homem)&lt;/em&gt; - repete cada 2 versos&lt;br&gt;&#xA;Também lavo o meu calção&lt;br&gt;&#xA;E o vosso pé delicado&lt;br&gt;&#xA;Esse corpinho bem feito&lt;br&gt;&#xA;Já cá era desejado&lt;br&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -77,12 +77,22 @@
                             
                             
                             
+                                
+                            
                             
                                 
                             
-                            ☕
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                            ☕☕☕☕☕
                         </span>
-                        <span>1 min read</span>
+                        <span>8 min read</span>
                     </div>
                 </div>
                 <h1 class="post-title">Audio Cleanup</h1>
@@ -102,6 +112,126 @@
             </header>
             <div class="post-body">
                 <p>First and foremost, please note that I&rsquo;m an amateur on this kind of thing, I think the end result was pretty good but I&rsquo;m not gonna say it&rsquo;s the best it could be.</p>
+<p>I started this project in the context of my folk group field recordings, containing interviews, songs and sometimes teachings on how to dance these songs. These are 30+ years amateur tape recordings, usually recorded without a proper microphone, as a result of aging as well as the recording conditions these tapes had a lot, and when I say a lot, is really a <strong>Lot</strong> of noise.</p>
+<p>So if you have a similar case of old recordings to clean, buckle up, open Audacity and embark on this small journey with me.</p>
+<h2 id="recording-the-tape">Recording the tape</h2>
+<p>Be careful with the volume on the tape recorder, too much and it becomes with too much noise. Best to keep somewhere in the middle. You can add a bit more gain after the audio is cleaned up.</p>
+<h2 id="noise-reduction">Noise Reduction</h2>
+<p>This is the main thing that I did, since the noise was pretty constant through out the tapes, I could actually just get a profile on a spot that has nothing but the actual noise, and then apply it to the tape, or part of the tape.</p>
+<p>These are the steps:</p>
+<ol>
+<li>Select sample of the recording with only noise;</li>
+<li>Go the &ldquo;Effect&rdquo; window and click the Noise Reduction option;</li>
+<li>Click on Step 1 button &ldquo;Get Noise Profile&rdquo;;</li>
+<li>Select portion of the tape you want to apply;</li>
+<li>Go the &ldquo;Effect&rdquo; window and click the Noise Reduction option again;</li>
+<li>Click &ldquo;OK&rdquo;.</li>
+</ol>
+<p>For the Step 2 options, I ended up with these values, but this is what worked best for my use case and it could change from tape to tape:</p>
+<p>Noise Reduction: 18db
+Sensitivity: 13</p>
+<p>Note: This won&rsquo;t make all the noise disappear, since that would mean take those frequencies from the actual recording would vanish. That can be pretty bad since it also means the recording without those frequencies can sound pretty weird. You want balance.</p>
+<h2 id="low-pass-filter">Low Pass Filter</h2>
+<p>With these being old recordings in mind, and basically no usable audio exists above the 10k frequencies, I just decided to run a Low Pass Filter to filter out everything above this 10k frequency.</p>
+<p>The result is that any high pitched ring/noise will cease to exist without compromising none of the audio.</p>
+<p>Steps:</p>
+<ol>
+<li>Select portion of the tape you want to apply;</li>
+<li>Go the &ldquo;Effect&rdquo; window and click select the plugin 1-15 -&gt; Low Pass Filter;</li>
+<li>Write the frequency of your threshold (in my case I chose 10k);</li>
+<li>Select 48db;</li>
+<li>Click OK.</li>
+</ol>
+<p>You&rsquo;ll want to apply this only if you know your audio doesn&rsquo;t have any usable data above that frequency.</p>
+<h2 id="noise-gate">Noise Gate</h2>
+<p>Ahhh, Noise Gate, do you know those background noises of a fan, cars in the street, wind? Yeah, it&rsquo;s pretty distracting especially when nobody is saying anything. Luckily Noise Gate exists to help us, It removes everything below a certain volume meter threshold.</p>
+<p>Do you see the playback meter on the top? Good. You want to be looking at it and see the level it hits on the silence parts of the recording. Then follow these steps.</p>
+<ol>
+<li>Select portion of the tape you want to apply;</li>
+<li>Go the &ldquo;Effect&rdquo; window and click select the plugin 1-15 -&gt; Low Pass Filter;</li>
+<li>Choose the Gate threshold, the number you recorded previously;</li>
+<li>Change the attack to 1ms;</li>
+<li>Click OK.</li>
+</ol>
+<h2 id="spectral-edit">Spectral Edit</h2>
+<p>This is for those occasional sounds that appear in the recording, not constant background noise, so like a bird chirping, or a bark of a dog.</p>
+<p>For this you want to change the view to the spectral view.</p>
+<p>There are quite a few spectral edit tools on audacity:</p>
+<h3 id="spectral-delete">Spectral delete</h3>
+<p>This one is self-explanatory, it does just that, it deletes fully the selected frequencies, it does a good job at eliminating the noise, but if it happens during a conversation it might kill frequencies that you want to keep.</p>
+<p>Use with caution</p>
+<h3 id="spectral-edit-multi-tool">Spectral edit multi tool</h3>
+<p>Best one for a quick cleanup, it is automatic. Just select the unwanted frequencies and select the effect. It will reduce the unwanted noise by a lot. It will reduce the noise by the midle outward, more in the middle, less in the outer regions of the selection</p>
+<h3 id="spectral-edit-parametric-eq-and-shelves">Spectral edit parametric-EQ and shelves</h3>
+<p>This effects let you select by how much you want the selection to be reduced or increased.</p>
+<p>The parametric-EQ will allow you to modify the tone quality using a gain control. Which basically means, it will reduce or increase the selection and the frequencies outside the selection may be adjusted as well like with an EQ curve.</p>
+<p>The shelves one is almost the same as the parametric-EQ, but without the EQ curve, use this when you want a less aggressive low pass or high pass filter.</p>
+<p>They all are powerful tools and they all have specific use cases, I recommend testing them out and see which one is best for the specific selection.</p>
+<h2 id="eq">EQ</h2>
+<p>The EQ can be really terrifying, and I&rsquo;m not gonna lie and pretend it isn&rsquo;t a little bit.</p>
+<h3 id="a-quick-guide-to-the-frequency-spectrum">A quick guide to the frequency spectrum</h3>
+<ul>
+<li>50-75Hz
+<ul>
+<li>Boost to beef up kick drums and sub bass lines. Cut to reduce excessive low-end weight.</li>
+</ul>
+</li>
+<li>80-200Hz
+<ul>
+<li>Boost to add body to snares and guitars, punch to kick drums, roundness to bass, and general warmth. Cut to reduce low-end mud.</li>
+</ul>
+</li>
+<li>200-500Hz
+<ul>
+<li>Boost to ‘warm up’ vocals, guitars and synths, and add presence to basses. Cut to reduce muddiness.</li>
+</ul>
+</li>
+<li>500-800Hz
+<ul>
+<li>Boost (with care!) to bring out the tone of almost any instrument. Cut to reduce ‘honk’.</li>
+</ul>
+</li>
+<li>2-5kHz
+<ul>
+<li>Boost to give vocals, guitars, synths and strings clarity, definition and impact. Cut to reduce harshness.</li>
+</ul>
+</li>
+<li>5-10kHz
+<ul>
+<li>Boost to add presence and sheen to drums, cymbals and guitars. Cut to reduce scratchiness and sibilance.</li>
+</ul>
+</li>
+<li>16kHz+
+<ul>
+<li>Boost for brightness and ‘air’. Cut to reduce high-end fizz.</li>
+</ul>
+</li>
+</ul>
+<p>I found this on a post online. Although the EQ is really dependent on the source material, your tapes or whatever recording you&rsquo;re trying to clean, and it may or may not have these instruments, this gives you an idea where all the frequencies sit on the spectrum. Now you know for example, that the most impact you can do on voice is around the 500-2k.</p>
+<p>With this, what I found best was just to mess around and try to understand what changed when I dialed down certain frequencies on this spectrums, try big changes, the recording will sound odd, but it will give you a better idea of what happened.</p>
+<p>For my needs, since the voice was way to nasal and the sound not bright in the slightest, I decided to diminish mids and boost the highs, so diminish from like 800hz until the 4k or 5khz and boost anywhere from 5k to 16khz.</p>
+<h2 id="clipping">Clipping</h2>
+<p>For this problem you can use a lot of things, you can just repair a specific clip if it&rsquo;s an isolated incident, you can just amplify with a negative number to bring the whole thing down or use a compressor and then normalize the recording.</p>
+<p>Bear in mind that once there&rsquo;s clipping, being because of damage or because the way it was recorded, the distortion will always be there, you can&rsquo;t make up data where there is none, these are ways to minimize the problem.</p>
+<p>When it comes to really damaged parts, like &ldquo;pops&rdquo; and &ldquo;clicks&rdquo;, caused by scratches on the tape or something else, we can try the click removal.</p>
+<h2 id="compressor">Compressor</h2>
+<p>Compressor, a cool little effect to even out the dynamic range, loudest parts become quieter and quiet parts become louder.
+You will want to use this for a couple of reasons, one of them is clipping, yes, but the main one is, in this setting the person that is being interviewed won&rsquo;t be always facing the same direction, they will not always be talking loud (or quiet).</p>
+<h2 id="normalize">Normalize</h2>
+<p>After the compression is always a good idea to normalize the tape. What does this mean? Bring the whole thing up to a healthy and consistent volume, since the compression will make things quieter at times, the normalization will bring those parts back up but now using an even dynamic range.</p>
+<h2 id="order">Order</h2>
+<p>This is the order I usually used these tools:</p>
+<ol>
+<li>Noise Reduction;</li>
+<li>Low pass filter;</li>
+<li>EQ;</li>
+<li>Noise Gate;</li>
+<li>Compress;</li>
+<li>Normalize.</li>
+</ol>
+<p><strong>Note:</strong> The spectral effects were not always needed, but when when they were needed, I usually did them between step 2 and 3.</p>
+<h2 id="closing-thoughts">Closing thoughts</h2>
+<p>After doing this project I did learn something about sound in general, and what I learned was enough for my needs, but make no mistake, this is a big world to explore. For now I was able to clean only one tape of 13 (I think), So we&rsquo;ll see how many challenges will arise when I pick this up again and if I learn something new, I&rsquo;ll be sure to update this post or do a new one to share.</p>
 
             </div>
 
@@ -138,7 +268,7 @@
                     </div>
                     
                     <div class="related-post">
-                        <h4><a href="http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro/">Canioneiro dos Moleiros da Ribeira do Olival</a></h4>
+                        <h4><a href="http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-a_lavadeira/">A Lavadeira</a></h4>
                         <div class="related-meta">
                             2026.09.02 •
                             
