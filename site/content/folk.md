@@ -9,7 +9,7 @@ tags: ["Folk", "Music", "Audio cleanup", "Culture"]
 
 
 ## Background
-Something to know about me, I was not always a software developer, long before that my passion in music and culture was a pillar in my identity. This passion arrived when my sister first introduced me to the local folklore group "Os Moleiros da Ribeira", this was about 20 years ago in 2006, when I was about 8 years old. At this age I was already playing the accordion for 2 years and already had a bit of a passion for music, being part of the group only enhanced it. Funny enough, I only started playing the instrument in the group about 3 years ago, all this time I was dancing in the group. 
+Something to know about me, I was not always a software developer, long before that my passion in music and culture was a pillar in my identity. This passion arrived when my sister first introduced me to the local folklore group "Os Moleiros da Ribeira", this was about 20 years ago in 2006, when I was about 8 years old. At this age I was already playing the accordion for 2 years and already had a bit of a passion for music, being part of the group only enhanced it. Funny enough, I only started playing the instrument in the group about 3 years ago, all this time I was dancing. 
 
 It was around that time that I started to be more actively part of the group (by being a member of the general assembly and leading the practices) and folklore in general, participating in workshops and training courses about the various themes like, how to document and preserve our heritage, how best to digitize our culture, alternative ways to get information like in photos or notarial deeds where they had a probate inventory and how to keep anxiety in check when performing.
 

@@ -7,19 +7,31 @@ date: 2026-09-02
 ---
 
 ## About me
-- Some Beautifull paragraph
+Software and web developer for 5 years, where the last 4 were spent on the development of a cloud-based document management platform tailored for accountants. Has a TeSP degree in Information Systems Programming and currently finishing the Bachelor’s degree in Software Engineering. Always eager to start the next challenge.
 
 ## Skills
-- C# And Derivatives
+
+### Backend
+- C# / .NET Core / .NET Framework
 - Java
-- Javascript
-- SQL
-- RESTFul APIs
-- Docker
-- HTML
-- CSS
+- RESTful API
+- Microservices Architecture
+
+### Database & Data
+- SQL Server
+- Database Design
+- Entity Framework Core
+- Data Integration & ETL
+
+### Frontend
+- Web UI Development
+- ASP.NET Core MVC/Razor Pages
 - PHP
 - React
+
+### Others
+- Docker
+
 
 ## Work Experience
 ### Student, Instituto Politécnico de Leiria
@@ -27,27 +39,25 @@ date: 2026-09-02
 
 #### Study
 
-- Software Engeneering course
+- Bachelor's degree in Software Engineering
 
 #### Personal Project
+- [OGame Battle simulator in C#](https://github.com/joaovieira1428/OgameGenSim)
 
-- OGame Battle simulator in C#
-- https://github.com/joaovieira1428/OgameGenSim
-
-### Tecnical Consultant, Latourrette Consulting, Leiria
+### Technical Consultant, Latourrette Consulting, Leiria
 09-2019 — 08-2023
 - Cloud-based document management Application
-    - Site
-    - API
-    - BD
-    - Desktop App
+    - Full-stack development on services and features
+    - Database design and optimization
+    - Service integrations with desktop app support
 
 ### Web Developer, Lusoparticipações Avalibérica, S.A., Leiria
 06-2018 — 07-2019 
 - Online auction site
-- Site maintenance developed in PHP (yii2)
-- Total migration of the site to Java
+    - Site maintenance developed in PHP (yii2)
+    - Total migration of the site to Java
 - Backoffice development for the auction site
+- Development of personal site focused on specific items and auctions
 
 ## Education
 - TeSP degree in Information Systems Programming
@@ -64,4 +74,6 @@ date: 2026-09-02
 - Currently a Member of the General Assembly
 
 ## Contact me
-- Some links
+- [Email](mailto:joaofilipevieira1998@gmail.com)
+- [Linkdin](linkedin.com/in/joão-vieira-80991218a)
+
