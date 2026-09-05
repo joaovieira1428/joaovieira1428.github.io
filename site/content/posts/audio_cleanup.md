@@ -3,7 +3,7 @@ title: "Audio Cleanup"
 date: 2026-09-03
 subtitle: "This post is for those who like to tinker with audio cleanup."
 tags: ["Music", "Audio Cleanup"]
-# featured: true
+featured: true
 # mood: "Focused"
 ---
 

@@ -3,7 +3,7 @@ title: "Canioneiro dos Moleiros da Ribeira do Olival"
 date: 2026-09-02
 subtitle: "This is a collection of songs from the end of the XIX century and beginning of the XX century. They were collected in our region and as such they were songs that the people used to sing and dance in Olival/Ourém during that time."
 tags: ["Music", "Folk", "Os Moleiros da Ribeira"]
-# featured: true
+featured: true
 # mood: "Focused"
 ---
 

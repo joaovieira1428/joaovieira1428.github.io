@@ -13,6 +13,13 @@ theme = 'loficode-hugo-theme'
 # Enable emoji support
 enableEmoji = true
 
+# Output formats for SPA functionality
+[outputs]
+  home = ["HTML", "JSON", "pages"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+
 # Custom output formats
 [outputFormats]
   [outputFormats.JSON]
