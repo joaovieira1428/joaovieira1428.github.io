@@ -7,65 +7,65 @@ tags: ["Music", "Folk", "Os Moleiros da Ribeira", "Sea"]
 # mood: "Focused"
 ---
 
-```txt
-(mulher)
-A barca virou
-Deixa-la virar
-São voltas que dão
-No fundo do mar
+## Lirycs
 
-CORO – repetir quadra
-Ó compadre tombou um carro
-Lá para as bandas de São Mateus
-Ó comadre eu vou-me embora
-Ó compadre adeus adeus
 
-(mulher)
-Tombou ai lé
-Deixa-la tombar
-São voltas que dão
-E tornam a dar
-```
+*(mulher)*<br>
+A barca virou<br>
+Deixa-la virar<br>
+São voltas que dão<br>
+No fundo do mar<br>
+
+*CORO* **– repetir quadra**<br>
+Ó compadre tombou um carro<br>
+Lá para as bandas de São Mateus<br>
+Ó comadre eu vou-me embora<br>
+Ó compadre adeus adeus<br>
+
+*(mulher)*<br>
+Tombou ai lé<br>
+Deixa-la tombar<br>
+São voltas que dão<br>
+E tornam a dar<br>
+
 
 <br>
 
 <details>
 <summary>Show English translation</summary>
 
-```txt
-(woman)
-The little boat turned over
-Let her turn
-They are turns that take place
-at the bottom of the sea
-
-CHOIR – Repeat quatrain
-Oh brother(firend) you turned over your cart
-There for the São Mateus region
-Oh sister(friend) I'm gonna go
-Oh brother(friend) goodbye goodbye
-
-(woman)
-It fell ai lé
-Let her fall
-They are turns that take place
-And they're turning again
-```
-
 <br>
+
+*(woman)*<br>
+The little boat turned over<br>
+Let her turn<br>
+They are turns that take place<br>
+at the bottom of the sea<br>
+
+*CHOIR* **– Repeat quatrain**<br>
+Oh brother(firend) you turned over your cart<br>
+There for the São Mateus region<br>
+Oh sister(friend) I'm gonna go<br>
+Oh brother(friend) goodbye goodbye<br>
+
+*(woman)*<br>
+It fell ai lé<br>
+Let her fall<br>
+They are turns that take place<br>
+And they're turning again<br>
 
 </details>
 
-<br>
+## Sheet music
 
-<iframe src="/files/A Barca Virou_versao-simplificada.pdf" width="600px" height="900px" style="border: none; border-radius: 8px;">
-  <a href="/files/A Barca Virou_versao-simplificada.pdf"></a>
+<iframe src="/files/sheets/A Barca Virou_versao-simplificada.pdf" width="600px" height="900px" style="border: none; border-radius: 8px;">
+  <a href="/files/sheets/A Barca Virou_versao-simplificada.pdf"></a>
 </iframe>
 
 <br>
 <br>
 
 <audio controls>
-  <source src="/files/A Barca Virou_versao-simplificada.mp3" type="audio/mpeg">
-  Your browser does not support the audio element. <a href="/files/song.mp3">Download the audio</a> instead.
+  <source src="/files/mp3/A Barca Virou_versao-simplificada.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="/files/mp3/song.mp3">Download the audio</a> instead.
 </audio>

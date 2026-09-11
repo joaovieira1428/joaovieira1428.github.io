@@ -41,7 +41,13 @@
     <loc>http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-cantemos_dancemos/</loc>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-danca_a_quatro_passos/</loc>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-fado_da_rica_prima/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/os-moleiros-da-ribeira/</loc>
@@ -56,13 +62,14 @@
     <loc>http://localhost:1313/tags/river/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/romaria/</loc>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/sea/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/work/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/moleiros_da_ribeira-cancioneiro-cantemos_dancemos/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

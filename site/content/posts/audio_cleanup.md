@@ -73,7 +73,7 @@ This one is self-explanatory, it does just that, it deletes fully the selected f
 Use with caution
 
 ### Spectral edit multi tool
-Best one for a quick cleanup, it is automatic. Just select the unwanted frequencies and select the effect. It will reduce the unwanted noise by a lot. It will reduce the noise by the midle outward, more in the middle, less in the outer regions of the selection
+Best one for a quick cleanup, it is automatic. Just select the unwanted frequencies and select the effect. It will reduce the unwanted noise by a lot. It will reduce the noise by the middle outward, more in the middle, less in the outer regions of the selection
 
 ### Spectral edit parametric-EQ and shelves
 This effects let you select by how much you want the selection to be reduced or increased.
@@ -125,7 +125,7 @@ You will want to use this for a couple of reasons, one of them is clipping, yes,
 After the compression is always a good idea to normalize the tape. What does this mean? Bring the whole thing up to a healthy and consistent volume, since the compression will make things quieter at times, the normalization will bring those parts back up but now using an even dynamic range.
 
 ## Order
-This is the order I usually used these tools:
+This is the order I usually used these tools in:
 1. Noise Reduction;
 2. Low pass filter;
 3. EQ;
@@ -133,7 +133,50 @@ This is the order I usually used these tools:
 5. Compress;
 6. Normalize.
 
-**Note:** The spectral effects were not always needed, but when when they were needed, I usually did them between step 2 and 3.
+**Note:** The spectral effects were not always needed, but when when they were, I usually did them between step 2 and 3.
+
+## Mono Audio
+
+One thing you might notice in the recordings below, is that the original was predominantly on the left side, so keeping the stereo version for this recording would be way to weird to listen on anything other than a phone, although even those have stereo most of the times. So to solve that issue, I just took the left side of the recording and put it to Mono. Something to keep in mind when listen to those recordings, or if you encounter the same problem. 
+
+
+## Audio example of before / after the clean up
+**Olha o balão - Original**
+
+<audio controls>
+  <source src="/files/mp3/19-Olha o balao_original.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="/files/mp3/19-Olha o balao_original.mp3">Download the audio</a> instead.
+</audio>
+
+<br>
+<br>
+
+**Olha o balão - limpo**
+
+<audio controls>
+  <source src="/files/mp3/19-Olha o balao_limpo.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="/files/mp3/19-Olha o balao_limpo.mp3">Download the audio</a> instead.
+</audio>
+
+<br>
+<br>
+
+**Olha o balão - limpo com noise gate**
+
+<audio controls>
+  <source src="/files/mp3/19-Olha o balao_limpo_com_noise_gate.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="/files/mp3/19-Olha o balao_limpo_com_noise_gate.mp3">Download the audio</a> instead.
+</audio>
+
+<br>
+<br>
+
+**Olha o balão - limpo, Mono com noise gate**
+
+<audio controls>
+  <source src="/files/mp3/19-Olha o balao_limpo_mono_noise_gate.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="/files/mp3/19-Olha o balao_limpo_mono_noise_gate.mp3">Download the audio</a> instead.
+</audio>
 
 ## Closing thoughts
 After doing this project I did learn something about sound in general, and what I learned was enough for my needs, but make no mistake, this is a big world to explore. For now I was able to clean only one tape of 13 (I think), So we'll see how many challenges will arise when I pick this up again and if I learn something new, I'll be sure to update this post or do a new one to share.

@@ -20,3 +20,5 @@ I'm going to be updating this page as I transcribe more songs.
 **[Cantemos Dancemos](/posts/moleiros_da_ribeira-cancioneiro-cantemos_dancemos)**
 
 **[Danca a Quatro Passos](/posts/moleiros_da_ribeira-cancioneiro-danca_a_quatro_passos)**
+
+**[Fado da rica prima](/posts/moleiros_da_ribeira-cancioneiro-fado_da_rica_prima)**

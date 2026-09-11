@@ -20,7 +20,7 @@ Fast forwarding to now, the culmination of this workshops, training courses and 
     - Not much to talk about this one, we just bought a tape recorder that could be connected to the PC, opened Audacity and pressed record while the tape was playing.
 - Audio cleanup
     - This was in, it self, another project I've done, from learning how to do it and then actually do it.
-    - If you are interested in this kind of thing, here's the post link [Audio cleanup](audiocleanup).
+    - If you are interested in this kind of thing, here's the post link **[Audio cleanup](/posts/audio_cleanup/)**.
 
 ## Os Moleiros da Ribeira
 ### Cancioneiro

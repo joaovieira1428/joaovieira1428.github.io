@@ -9,14 +9,17 @@ tags: ["Music", "Folk", "Os Moleiros da Ribeira"]
 
 This song is not danced in just 4 different steps, but that is the actual translation. It does not have any lirycs, although not without any meaning, we use it to mimic how they used to start the dance floor.
 
-<iframe src="/files/Danca a Quatro Passos_versão-simplificada.pdf" width="600px" height="900px" style="border: none; border-radius: 8px;">
-  <a href="/files/Danca a Quatro Passos_versão-simplificada.pdf"></a>
+
+## Sheet music
+
+<iframe src="/files/sheets/Dança a Quatro Passos_versão-simplificada.pdf" width="600px" height="900px" style="border: none; border-radius: 8px;">
+  <a href="/files/sheets/Dança a Quatro Passos_versão-simplificada.pdf"></a>
 </iframe>
 
 <br>
 <br>
 
 <audio controls>
-  <source src="/files/Dança a Quatro Passos_versão-simplificada.mp3" type="audio/mpeg">
-  Your browser does not support the audio element. <a href="/files/song.mp3">Download the audio</a> instead.
+  <source src="/files/mp3/Dança a Quatro Passos_versão-simplificada.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="/files/mp3/song.mp3">Download the audio</a> instead.
 </audio>

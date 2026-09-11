@@ -75,5 +75,5 @@ Software and web developer for 5 years, where the last 4 were spent on the devel
 
 ## Contact me
 - [Email](mailto:joaofilipevieira1998@gmail.com)
-- [Linkdin](linkedin.com/in/joão-vieira-80991218a)
+- [Linkedin](linkedin.com/in/joão-vieira-80991218a)
 
