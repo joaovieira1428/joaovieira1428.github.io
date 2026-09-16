@@ -22,3 +22,17 @@ I'm going to be updating this page as I transcribe more songs.
 **[Danca a Quatro Passos](/posts/moleiros_da_ribeira-cancioneiro-danca_a_quatro_passos)**
 
 **[Fado da rica prima](/posts/moleiros_da_ribeira-cancioneiro-fado_da_rica_prima)**
+
+**[Fado Pião](/posts/moleiros_da_ribeira-cancioneiro-fado_piao)**
+
+**[Fui ao Campo às Flores](/posts/moleiros_da_ribeira-cancioneiro-fui_ao_campo_as_flores)**
+
+**[Na Casa da Brincadeira](/posts/moleiros_da_ribeira-cancioneiro-na_casa_da_brincadeira)**
+
+**[O raita da Saia](/posts/moleiros_da_ribeira-cancioneiro-o_raita_da_saia)**
+
+**[Olha o balão](/posts/moleiros_da_ribeira-cancioneiro-olha_o_balao)**
+
+**[Os moleiros](/posts/moleiros_da_ribeira-cancioneiro-os_moleiros)**
+
+**[Pim pim olaré pim pim](/posts/moleiros_da_ribeira-cancioneiro-pim_pim_olare_pim_pim)**
